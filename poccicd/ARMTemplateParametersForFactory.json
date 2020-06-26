@@ -4,9 +4,6 @@
 	"parameters": {
 		"factoryName": {
 			"value": "poccicd"
-		},
-		"AzureSqlDatabase1_connectionString": {
-			"value": ""
 		}
 	}
 }
